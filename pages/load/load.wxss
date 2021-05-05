@@ -1,0 +1,17 @@
+/* pages/load/load.wxss */
+.hmp{
+  width: 80%;
+  height:50%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background-color:transparent;
+  border-style: none;
+  color: aliceblue;
+}
+.loadBackground{
+  height : 100%;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+}
